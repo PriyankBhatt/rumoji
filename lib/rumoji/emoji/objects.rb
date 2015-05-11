@@ -154,6 +154,7 @@ module Rumoji
       self.new("\u{1f4ec}", [:mailbox_with_mail]),
       self.new("\u{1f4ed}", [:mailbox_with_no_mail]),
       self.new("\u{1f45e}", [:mans_shoe, :shoe]),
+      self.new("\u{1f45f}", [:athletic_shoe, :shoe]),
       self.new("\u{1f356}", [:meat_on_bone]),
       self.new("\u{1f4e3}", [:mega]),
       self.new("\u{1f348}", [:melon]),
